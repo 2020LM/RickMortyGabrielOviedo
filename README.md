@@ -13,5 +13,5 @@ You can access to the project using this link: https://gabrieloviedorickandmorty
 
 Additional Notes:
 
-API: The application consumes the Rick and Morty REST API located at https://rickandmortyapi.com/documentation.
+API: The application consumes the Rick and Morty REST API located at https://rickandmortyapi.com/api/character.
 CodeSandbox: This application was initially developed on CodeSandbox, an online development platform.
