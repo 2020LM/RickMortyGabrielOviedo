@@ -1,0 +1,18 @@
+:root {
+  --backgroundBlue: #185770;
+}
+
+.basicStyles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--backgroundBlue);
+  overflow: auto;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: 20% 80%;
+}

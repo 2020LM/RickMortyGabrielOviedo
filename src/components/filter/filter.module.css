@@ -1,0 +1,35 @@
+:root {
+  --LigtBlueGreen: #4c9085;
+  --color-barra-busqueda: #333;
+  --white: #fff;
+}
+
+.searchBar {
+  background-color: var(--LigtBlueGreen);
+  color: var(--white);
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 3%;
+}
+
+.searchInput {
+  flex: 1;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: var(--white);
+  font-size: 16px;
+}
+
+input::placeholder {
+  color: var(--white);
+}
+
+.glass {
+  width: 24px;
+  cursor: pointer;
+}

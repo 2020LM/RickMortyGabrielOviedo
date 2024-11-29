@@ -1,0 +1,14 @@
+.span {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  width: 400px;
+}
+
+@media (max-width: 1000px) {
+  .title {
+    width: 300px;
+  }
+}
